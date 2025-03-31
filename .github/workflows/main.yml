@@ -15,4 +15,4 @@ jobs:
 
 
       - name: Run cppcheck
-        run: cppcheck --enable=all --inconclusive filozofowie.cpp
+        run: cppcheck --enable=all --inconclusive main.cpp
